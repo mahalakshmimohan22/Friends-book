@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Courgette&family=Dangrek&family=Stick+No+Bills:wght@300&family=Timmana&family=Trispace:wght@200;400&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    background-color: hwb(0 86% 13% / 0.747);
+    height: fit-content;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+    color: hsl(59, 100%, 84%);
+    padding: 28px;
+    padding-bottom: 0px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-left: 100px;
+    border-top: 20px solid hwb(0 86% 13% / 0.747);
+    font-size: 1.35em;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Carter One', cursive;
+
+  }
+  #backgroundImage {
+    display: flex;
+    flex-direction: column;
+    width: 93vw;
+    position: absolute;
+    height: 130vh;
+    padding-top: 25px;
+    padding-bottom: 0px;
+    
+  }
+  #titleName {
+    padding: 100px 10px 10px 10px;
+  }
+  #yourName {
+    padding: 20px;
+  }
+  #field1 {
+    padding: 10px;
+    padding-top: 25px;
+  }
+  #field2 {
+    padding: 10px;
+    padding-top: 25px;
+  }
+  #field3 {
+    padding: 10px;
+    padding-top: 25px;
+  }
+  #field4 {
+    padding: 10px;
+    padding-top: 25px;
+  }
+  #field5 {
+    padding: 10px;
+    padding-top: 25px;
+  }
+  #field6 {
+    padding: 10px;
+    padding-top: 25px;
+  }
+  #field7 {
+    padding: 10px;
+    padding-top: 25px;
+  }
+  
+  #textBox1 {
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  #textBox2 {
+    padding: 20px;
+  }
+  #textBox3 {
+    padding: 20px;
+  }
